@@ -1,0 +1,9 @@
+{
+  "name": "type-utils",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "type-fest": "^0.16.0"
+  }
+}
